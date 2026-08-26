@@ -160,7 +160,9 @@ This helps move the organization from 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐨𝐧-𝐛�
 
 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐕𝐢𝐞𝐰
 
+![image alt](https://github.com/TusharDas01010/Business-Insight-360-For-AtliQ-Hardware/blob/83397958c61b16307f6ab64ed7feac9b4f1ddaa8/Finance%20View.png)
 
+---
 
 𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰
 
