@@ -181,11 +181,31 @@ This helps move the organization from 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐨𝐧-𝐛�
 
 ---
 
-𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰
+𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐕𝐢𝐞𝐰
 
-![image alt](
+![image alt](https://github.com/TusharDas01010/Business-Insight-360-For-AtliQ-Hardware/blob/a01eedfa2a7f4423777c7ec317fdab350a6f16d5/Executive%20View.png)
 
 ---
+
+🎓 𝐖𝐡𝐚𝐭 𝐈 𝐋𝐞𝐚𝐫𝐧𝐞𝐝
+
+Through this project, I strengthened my practical knowledge of:
+
+● Building an end-to-end Power BI dashboard
+● Creating a data model for business reporting
+● Writing DAX measures
+● Designing interactive reports
+● Analyzing financial and sales KPIs
+● Converting raw data into business insights
+● Presenting analytical findings in a business-friendly way
+
+---
+
+## 🔗 Project Links
+
+- 📊 **[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzEzYjQ5ZDItOTk0Yy00Nzc0LTg1MzAtNTA0ODhjMmFhZDk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+  
+- 🎥 **[Project Presentation](https://youtu.be/nPoRB8SUTFI)**
 
 
 
