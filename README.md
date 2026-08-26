@@ -177,7 +177,7 @@ This helps move the organization from 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐨𝐧-𝐛�
 
 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰
 
-![image alt](
+![image alt](https://github.com/TusharDas01010/Business-Insight-360-For-AtliQ-Hardware/blob/b789f5656e0abd6bd03f3045969f94ef2fb5233f/Supply%20Chain%20View.png)
 
 ---
 
