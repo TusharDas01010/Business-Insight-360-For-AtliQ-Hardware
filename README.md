@@ -166,8 +166,9 @@ This helps move the organization from 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐨𝐧-𝐛�
 
 𝐒𝐚𝐥𝐞𝐬 𝐕𝐢𝐞𝐰
 
+![image alt](https://github.com/TusharDas01010/Business-Insight-360-For-AtliQ-Hardware/blob/99b03381543c08182a73e9bf8b224bd6d275e8c2/Sales%20View.png)
 
-
+---
 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰
 
 
