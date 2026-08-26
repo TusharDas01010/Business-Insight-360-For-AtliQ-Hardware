@@ -171,17 +171,21 @@ This helps move the organization from 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐨𝐧-𝐛�
 ---
 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰
 
+![image alt](https://github.com/TusharDas01010/Business-Insight-360-For-AtliQ-Hardware/blob/733afb644e42b834f2833e373d7079ca4fad9028/Marketing%20View.png)
 
+---
 
 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐕𝐢𝐞𝐰
 
+![image alt](
 
+---
 
 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐕𝐢𝐞𝐰
 
+![image alt](
 
-
-
+---
 
 
 
